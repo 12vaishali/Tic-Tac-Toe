@@ -1,4 +1,4 @@
-package com.example.tictaktoe_211b337;
+package com.example.tictactoe_211b337;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.gridlayout.widget.GridLayout;
